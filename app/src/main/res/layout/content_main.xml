@@ -48,6 +48,8 @@
         android:id="@+id/seekBar"
         android:layout_width="119dp"
         android:layout_height="26dp"
+        android:max="26"
+        android:progress="26"
         tools:layout_editor_absoluteX="9dp"
         tools:layout_editor_absoluteY="186dp" />
 

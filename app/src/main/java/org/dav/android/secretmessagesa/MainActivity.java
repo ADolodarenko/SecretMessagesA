@@ -88,6 +88,29 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        sb.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener()
+        {
+            @Override
+            public void onProgressChanged(SeekBar seekBar, int i, boolean b)
+            {
+                int key = sb.getProgress() - 13;
+                String message = txtIn.getText().toString();
+                String output = encode(message, key);
+                txtOut.setText(output);
+                txtKey.setText("" + key);
+            }
+
+            @Override
+            public void onStartTrackingTouch(SeekBar seekBar) {
+
+            }
+
+            @Override
+            public void onStopTrackingTouch(SeekBar seekBar) {
+
+            }
+        });
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/eaa26afa30e065912071060a24ec4900/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac95fbb1e89a1f12ad69eb7b98cf9ab5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2a2e4d7576a4c205b0a2d92ab066a665/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a9e5fb4cf50692b77fea5d7b046e1028/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/93a620502772871920a66762c16fdad6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/589abdd9cb21785fb9c78acc02efd4c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/701324bd850acd6c56170e889f2e1abb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/30f4d5ed9b3fecf033d57bb79b8dd410/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cbdd51d5750e2c717c01fd007bec38e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/47daafa093eaf2bc0744202b441695c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bc5487a1529c5fb6fed77c586013832a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e52941c376a9b15d0ea81d3f778149a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/27065e11849dd4ded54657665b369d1b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3ff3be38af2b463ead017c3a978b63b3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc245c8f828d80d8c10c4017ff393eab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ab4a4a537f8d88afed3a87d460d5ebd2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/712e02aae3bce8a20278b8e8b7fbd74c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2a2e4d7576a4c205b0a2d92ab066a665/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2a2e4d7576a4c205b0a2d92ab066a665/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:11:9-40
+activity#org.dav.android.secretmessagesa.MainActivity
+ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/eaa26afa30e065912071060a24ec4900/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/eaa26afa30e065912071060a24ec4900/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac95fbb1e89a1f12ad69eb7b98cf9ab5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac95fbb1e89a1f12ad69eb7b98cf9ab5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2a2e4d7576a4c205b0a2d92ab066a665/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2a2e4d7576a4c205b0a2d92ab066a665/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a9e5fb4cf50692b77fea5d7b046e1028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a9e5fb4cf50692b77fea5d7b046e1028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/93a620502772871920a66762c16fdad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/93a620502772871920a66762c16fdad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/589abdd9cb21785fb9c78acc02efd4c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/589abdd9cb21785fb9c78acc02efd4c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/701324bd850acd6c56170e889f2e1abb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/701324bd850acd6c56170e889f2e1abb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/30f4d5ed9b3fecf033d57bb79b8dd410/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/30f4d5ed9b3fecf033d57bb79b8dd410/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cbdd51d5750e2c717c01fd007bec38e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cbdd51d5750e2c717c01fd007bec38e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/47daafa093eaf2bc0744202b441695c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/47daafa093eaf2bc0744202b441695c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bc5487a1529c5fb6fed77c586013832a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bc5487a1529c5fb6fed77c586013832a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e52941c376a9b15d0ea81d3f778149a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e52941c376a9b15d0ea81d3f778149a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/27065e11849dd4ded54657665b369d1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/27065e11849dd4ded54657665b369d1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3ff3be38af2b463ead017c3a978b63b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3ff3be38af2b463ead017c3a978b63b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc245c8f828d80d8c10c4017ff393eab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc245c8f828d80d8c10c4017ff393eab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ab4a4a537f8d88afed3a87d460d5ebd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ab4a4a537f8d88afed3a87d460d5ebd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/712e02aae3bce8a20278b8e8b7fbd74c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/dolodarenko/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/712e02aae3bce8a20278b8e8b7fbd74c/AndroidManifest.xml:20:5-44
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+		ADDED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/src/main/AndroidManifest.xml
