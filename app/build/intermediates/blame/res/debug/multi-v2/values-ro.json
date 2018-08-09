@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Work\\Projects\\Java\\Android\\SecretMessagesA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
+            "outputFile": "/home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dolodarenko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\906dfdd8ec0426cd0987121d247376b5\\res\\values-ro\\values-ro.xml",
+                    "source": "/home/dolodarenko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac95fbb1e89a1f12ad69eb7b98cf9ab5/res/values-ro/values-ro.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dolodarenko\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\744a36a91d6a7390e825d9d0ecae51f3\\res\\values-ro\\values-ro.xml",
+                    "source": "/home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/27065e11849dd4ded54657665b369d1b/res/values-ro/values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

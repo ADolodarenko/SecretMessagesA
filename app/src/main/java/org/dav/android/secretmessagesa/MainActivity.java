@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     EditText txtKey;
     SeekBar sb;
     Button btn;
+    Button btnUp;
 
     public String encode(String message, int keyVal)
     {
@@ -82,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
         txtKey = (EditText)findViewById(R.id.txtKey);
         sb = (SeekBar)findViewById(R.id.seekBar);
         btn = (Button)findViewById(R.id.button);
+        btnUp = (Button)findViewById(R.id.btnUp);
 
         Intent receivedIntent = getIntent();
         String receivedText = receivedIntent.getStringExtra(Intent.EXTRA_TEXT);
@@ -97,6 +99,26 @@ public class MainActivity extends AppCompatActivity {
                 String message = txtIn.getText().toString();
                 String output = encode(message, key);
                 txtOut.setText(output);
+
+                sb.setProgress(key + 13);
+            }
+        });
+
+        btnUp.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View view)
+            {
+                String message = txtOut.getText().toString();
+
+                if (message != null && message.length() > 0)
+                {
+                    txtIn.setText(message);
+                    int currentKey = sb.getProgress() - 13;
+                    int newKey = 0 - currentKey;
+
+                    sb.setProgress(newKey + 13);
+                }
             }
         });
 
