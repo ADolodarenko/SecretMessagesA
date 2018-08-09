@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dolodarenko/Work/Java/Projects/Android/SecretMessagesA/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+            "outputFile": "D:\\Work\\Projects\\Java\\Android\\SecretMessagesA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
             "map": [
                 {
-                    "source": "/home/dolodarenko/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac95fbb1e89a1f12ad69eb7b98cf9ab5/res/values-lt/values-lt.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,221,322,435,522,631,752,834,915,1000,1109,1218,1318,1428,1532,1645,1821,1922",
-                        "endColumns": "115,100,112,86,108,120,81,80,84,108,108,99,109,103,112,175,100,82",
-                        "endOffsets": "216,317,430,517,626,747,829,910,995,1104,1213,1313,1423,1527,1640,1816,1917,2000"
-                    }
-                },
-                {
-                    "source": "/home/dolodarenko/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/27065e11849dd4ded54657665b369d1b/res/values-lt/values-lt.xml",
+                    "source": "C:\\Users\\dolodarenko\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\744a36a91d6a7390e825d9d0ecae51f3\\res\\values-lt\\values-lt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "2005",
                         "endColumns": "100",
                         "endOffsets": "2101"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dolodarenko\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\906dfdd8ec0426cd0987121d247376b5\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,221,322,435,522,631,752,834,915,1000,1109,1218,1318,1428,1532,1645,1821,1922",
+                        "endColumns": "115,100,112,86,108,120,81,80,84,108,108,99,109,103,112,175,100,82",
+                        "endOffsets": "216,317,430,517,626,747,829,910,995,1104,1213,1313,1423,1527,1640,1816,1917,2000"
                     }
                 }
             ]
